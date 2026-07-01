@@ -1,4 +1,4 @@
-## 🎵 EasyTune
+# 🎵 EasyTune
 
 EasyTune is a responsive music streaming web application built with React and Vite. The application allows users to browse songs, explore playlists, search for music, and control playback through an interactive music player interface.
 
@@ -102,9 +102,10 @@ http://localhost:5173/
 
 ## Author
 
-Armish Iqbal
+**Armish Iqbal**
 BS Computer Science Student
 Islamia University Bahawalpur
+GitHub: https://github.com/armishiqbal
 
 
 

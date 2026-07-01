@@ -96,7 +96,7 @@ Playlists Page
 ![Playlists Page](playlists.png)
 
 Music Player
-![Music Player](player.png)Home Page
+![Music Player](player.png)
 
 
 

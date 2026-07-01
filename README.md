@@ -83,8 +83,6 @@ API Endpoints
 
 Screenshots
 
-Add screenshots of:
-
 Home Page
 ![Home Page](home.png)
 

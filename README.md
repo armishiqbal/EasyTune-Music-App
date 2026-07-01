@@ -85,10 +85,21 @@ Screenshots
 
 Add screenshots of:
 
-* Home Page
-* Songs Page
-* Playlists Page
-* Music Player Interface
+Home Page
+![Home Page](home.png)
+
+Songs Page
+![Songs Page](songs.png)
+
+Playlist Page
+![Playlist Page](playlist.png)
+
+Playlists Page
+![Playlists Page](playlists.png)
+
+Music Player
+![Music Player](player.png)Home Page
+
 
 
  Author

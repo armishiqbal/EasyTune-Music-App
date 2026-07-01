@@ -49,7 +49,7 @@ easytune/
 
 ### 1. Clone the repository
 
-git clone https://github.com/armishiqbal/EasyTune.git
+git clone https://github.com/armishiqbal/EasyTune Music App.git
 cd EasyTune
 
 ### 2. Install dependencies
